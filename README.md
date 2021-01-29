@@ -5,8 +5,9 @@ A project template for developing for Hololens 2 in Unreal Engine 4.26
 ## Installation Instructions
 
 1) Find the installation folder of Unreal Engine in your computer, probably named "UE_4.26"
-2) Download this respository and rename the folder "Hololens2Template"
-3) Enjoy
+2) Download the zip file and unpack it in that folder.
+3) Make sure that the final folder is named Hololens2Template, and that its subfolders are "Binaries, Config, Contents..."
+3) Enjoy!
 
 ## Requirements
 
